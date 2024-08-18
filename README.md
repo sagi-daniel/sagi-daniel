@@ -9,8 +9,7 @@ My journey into programming began with a curiosity that has only grown over the 
 - Frontend: HTML, CSS, SCSS, Bootstrap, Tailwind
 - Backend & Database: MongoDB, MySQL
 - Tools & Platforms: Git, Docker, WordPress
-
-🌐[LinkedIn](https://www.linkedin.com/in/sagi-daniel/)
+  
 ---
 ## 📚 Projects
 
@@ -22,3 +21,4 @@ Code Docs: [GitHub Repo](https://github.com/sagi-daniel/nerdnews-fsApi/blob/main
 Live Project: [ChalkWars](https://echo-angular-project.web.app/login)  
 Code Docs: [GitHub Repo](https://github.com/sagi-daniel/ChalkWars-firebase-angular/blob/master/README.md)
 
+🌐[LinkedIn](https://www.linkedin.com/in/sagi-daniel/)
