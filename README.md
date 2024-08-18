@@ -5,10 +5,10 @@ My journey into programming began with a curiosity that has only grown over the 
 🔭 Current Focus: Full stack development, with a special interest in modern JavaScript frameworks and responsive web design.
 
 ## 🛠️ Tech Stack
-- Languages & Frameworks:** TypeScript, JavaScript, Angular, React, Node.js, Express.js
-- Frontend:** HTML, CSS, SCSS, Bootstrap, Tailwind
-- Backend & Database:** MongoDB, MySQL
-- Tools & Platforms:** Git, Docker, WordPress
+- Languages & Frameworks: TypeScript, JavaScript, Angular, React, Node.js, Express.js
+- Frontend: HTML, CSS, SCSS, Bootstrap, Tailwind
+- Backend & Database: MongoDB, MySQL
+- Tools & Platforms: Git, Docker, WordPress
 
 🌐[LinkedIn](https://www.linkedin.com/in/sagi-daniel/)
 ---
