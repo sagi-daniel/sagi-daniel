@@ -7,10 +7,7 @@
 - **Tools & Platforms:** Git, Docker, WordPress
 - **Skills in Progress:** Java, PHP, Docker, English fluency
 
-### 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/sagi-daniel/)
-
----
+### 🌐 Connect with Me [LinkedIn](https://www.linkedin.com/in/sagi-daniel/)
 
 ## 📚 Projects
 
@@ -31,7 +28,5 @@
 **Test Login:**  
 - **Email:** admin@admin.com  
 - **Password:** 1YQpUgqNPt7K
-
----
 
 Feel free to explore my projects and connect with me!
