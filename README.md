@@ -1,33 +1,37 @@
-## Hi there 👋
-## About me
-🔭 Current Focus: Full stack development, with a special interest in modern JavaScript frameworks and responsive web design.
-💬 Ask me about: Web development, custom WordPress theme creation, or how to optimize code for better performance.
-## Tech Stack:
-- Languages & Frameworks: TypeScript, JavaScript, Angular, React, Node.js, Express.js
-- Frontend: HTML, CSS, SCSS, Bootstrap, Tailwind
-- Backend & Database: MongoDB, MySQL
-- Tools & Platforms: Git, Docker, WordPress
-- Skills in Progress: Java, PHP, Docker, fluent english
+# 👋 Hi there!
 
-Feel free to connect with me or check out my projects below:
-LinkedIn [https://www.linkedin.com/in/sagi-daniel/]
+### 🛠️ Tech Stack
+- **Languages & Frameworks:** TypeScript, JavaScript, Angular, React, Node.js, Express.js
+- **Frontend:** HTML, CSS, SCSS, Bootstrap, Tailwind
+- **Backend & Database:** MongoDB, MySQL
+- **Tools & Platforms:** Git, Docker, WordPress
+- **Skills in Progress:** Java, PHP, Docker, English fluency
 
-## Projects:
-Nerdnews: 
-A full-stack web application showcasing my experience in both frontend and backend development.
-Project stack: React, Tailwind, Express.js, MongoDB
-Project: [https://nerdnews.hu/home]
-Code docs: [https://github.com/sagi-daniel/nerdnews-fsApi/blob/main/README.md]
-Test Login:
-- email: user@user.com
-- password: iYqUQzFoHY6x
+### 🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/sagi-daniel/)
 
-ChalkWars: 
-A frontend SPA built with Angular and Bootstrap, demonstrating my capability in building responsive and dynamic web applications.
-Angular, Bootstrap, Firebase
-Project: [https://echo-angular-project.web.app/login]
-Code docs: [https://github.com/sagi-daniel/ChalkWars-firebase-angular/blob/master/README.md]
-Test Login:
-- email: admin@admin.com
-- password: 1YQpUgqNPt7K
+---
 
+## 📚 Projects
+
+### Nerdnews: A full-stack web app showcasing my frontend and backend skills.  
+**Tech Stack:** React, Tailwind, Express.js, MongoDB  
+**Live Project:** [Nerdnews](https://nerdnews.hu/home)  
+**Code Docs:** [GitHub Repo](https://github.com/sagi-daniel/nerdnews-fsApi/blob/main/README.md)
+**Test Login:**  
+- **Email:** user@user.com  
+- **Password:** iYqUQzFoHY6x
+
+---
+
+### ChalkWars: A responsive SPA built with Angular & Bootstrap.  
+**Tech Stack:** Angular, Bootstrap, Firebase  
+**Live Project:** [ChalkWars](https://echo-angular-project.web.app/login)  
+**Code Docs:** [GitHub Repo](https://github.com/sagi-daniel/ChalkWars-firebase-angular/blob/master/README.md)
+**Test Login:**  
+- **Email:** admin@admin.com  
+- **Password:** 1YQpUgqNPt7K
+
+---
+
+Feel free to explore my projects and connect with me!
