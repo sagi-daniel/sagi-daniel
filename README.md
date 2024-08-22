@@ -25,7 +25,7 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 🌐[LinkedIn](https://www.linkedin.com/in/sagi-daniel/)
 
 
-### Contributions
+### 🤝 Contributions
 
 **Vue Mess Detector**:
 A tool for detecting code smells and best practice violations in Vue and Nuxt projects.
