@@ -29,5 +29,5 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 
 **Vue Mess Detector**:
 A tool for detecting code smells and best practice violations in Vue and Nuxt projects.
-- [Vue Mess Detector]([https://nerdnews.hu/home](https://vue-mess-detector.webmania.cc/)
-- [GitHub Repo]([https://nerdnews.hu/home](https://github.com/rrd108/vue-mess-detector/tree/main)  
+- [Vue Mess Detector](https://vue-mess-detector.webmania.cc/)
+- [GitHub Repo](https://github.com/rrd108/vue-mess-detector/tree/main)  
