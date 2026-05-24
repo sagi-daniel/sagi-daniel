@@ -3,10 +3,12 @@
 I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. 
 
 ### 🛠️ Tech Stack
-- Languages & Frameworks: TypeScript, JavaScript, Angular, React, Node.js, Express.js
-- Frontend: HTML, CSS, SCSS, Bootstrap, Tailwind
-- Backend & Database: MongoDB, MySQL
+- Languages: JavaScript, TypeScript, PHP, Node.js
+- Frameworks/Libs: Angular, React, Vue, Nuxt,  Express.js, Laravel
+- Frontend: Tailwind, CSS, SCSS, Bootstrap
+- Database: MongoDB, MySQL
 - Tools & Platforms: Git, Docker, WordPress
+- AI: Claude Code, Cursor
 
   🌐[LinkedIn](https://www.linkedin.com/in/sagi-daniel/) 
 ---
